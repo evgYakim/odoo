@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+accesses_agreement_read,Read.access.on.accesses.to.Employees,model_accesses_storage,base.group_user,1,1,1,1
+accesses_agreement_read2,Read.access.on.accesses.to.Employees2,model_accesses_storage_give,base.group_user,1,1,1,1
+
